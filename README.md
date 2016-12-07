@@ -2,7 +2,7 @@
 # Reinforcement Learning
 ## Project: Train a Smartcab How to Drive
 
-Use Reinforcement Learning algorithms like Q-Learning to train artificial agents to take optimal actions in an environment
+Use Reinforcement Learning algorithms like Q-Learning to train artificial agents to take optimal actions in an environment.
 
 ### Install
 
